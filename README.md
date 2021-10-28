@@ -1,4 +1,4 @@
-# DM2020-Lab1-Homework-110065525
+# DM2020-Lab1-Homework
 
 ### Student Information
 Name: 吳冠緯
